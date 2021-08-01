@@ -1,0 +1,191 @@
+body{
+    background-color: black;
+    font-family: "Quicksand";
+   
+    margin: 25px 25px 25px 25px;
+}
+
+#btn1{
+    background-color: #FFE600;
+    color: black;
+    padding: 10px;
+    border: none;
+    text-align: center;
+    margin: 4px 2px;
+    border-radius: 12px;
+    width: 100px;
+    font-weight: bold;
+    font-family: "Quicksand";
+    position: absolute;
+    top: 25px;
+    right: 25px;
+}
+
+ul{
+    color: white;
+    list-style: none;
+    
+    
+}
+
+ul li{
+   display: inline;
+   padding: 10px;
+   margin: 0;
+   font-weight: bold;
+}
+
+#headline
+{
+    
+    color: #FFE600;
+    font-weight: 1000;
+    text-align: center;
+    font-weight: 1000;
+    font-size: 40px;
+    
+}
+
+p{
+    color: #8f8f8f;
+    text-align: center;
+}
+h5{
+    color: white;
+    text-align: center;
+    margin:0;
+    padding:0;
+    color: #808080;
+}
+
+h3{
+    color: #8f8f8f;
+}
+
+
+#Coursio
+{
+    color: white;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    font-weight: bold;
+    
+}
+
+
+#root{
+    width: 700px;
+    height: 200px;
+    margin: auto;
+    border: 15px solid black;
+}
+
+#child1{
+    width: 300px;
+    height: 180px;
+    
+    border: 15px solid black;
+    
+}
+
+#slach
+{
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 120px;
+}
+
+#child2{
+    width: 300px;
+    height: 140px;
+    border: 15px solid black;
+    position: relative;
+    left: 400px;
+    bottom: 250px;
+    
+
+    
+}
+#id{
+        
+    width: 250px;
+    height: 50px;
+    border-radius: 12px;
+    border: black;
+  
+}
+#pin{
+        
+    width: 250px;
+    height: 50px;
+    border-radius: 12px;
+    border: black;
+    
+}
+
+
+#login{
+    background-color: #FFE600;
+    width: 250px;
+    height: 50px;
+    border-radius: 12px;
+    border: black;
+    
+}
+
+#slach
+{
+    color: white;
+    text-align: center;
+}
+
+
+#google{
+    background-image: url("google.png");
+    
+    background-position: left;
+    background-size: 35px;
+    background-repeat: no-repeat;
+    background-position-x: 10px;
+    
+    
+    background-color: white;
+    width: 250px;
+    height: 50px;
+    border-radius: 12px;
+    border: black;
+}
+
+#facebook{
+    background-color: white;
+    width: 250px;
+    height: 50px;
+    border-radius: 12px;
+    background-image: url("facebook.png");
+    
+    background-position: left;
+    background-size: 35px;
+    background-repeat: no-repeat;
+    background-position-x: 10px;
+    border: black;
+}
+
+#Privacy
+{
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+    color: #8f8f8f;
+}
+
+
+#cpy
+{
+    position: absolute;
+    bottom: 25px;
+    right: 25px;
+    color: #8f8f8f;
+  
+}
