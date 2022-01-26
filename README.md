@@ -4,3 +4,5 @@ UI Task (Screen - 1)
 
 
 Click here to view https://gokulrajalp.github.io/task_1
+
+Technologies used --> HTML, CSS
